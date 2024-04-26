@@ -1,0 +1,1 @@
+O código simula um sistema bancário com clientes realizando compras em lojas, que recebem pagamentos e pagam salários aos funcionários. O banco coordena as transações, garantindo a consistência dos saldos. Ao final, exibe os resultados das transferências e saldos das contas.
